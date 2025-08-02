@@ -88,10 +88,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[<video controls>
-  <source src="c:\Users\HP\OneDrive\Screen Recording 2025-08-02 164344.mp4" type="video/mp4">
-</video>]
-*When a user types their name into the website, it instantly displays personalized results using simple logic or algorithms. It doesn’t ask long questions or require sign-ups — it’s quick, easy, and entertaining for anyone to try.*
+https://drive.google.com/file/d/17kzNXYNFAUs4nlMfic7EPHcMmNXUm47n/view?usp=sharing
 
 # Additional Demos
 [Add any extra demo materials/links]
