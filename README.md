@@ -9,26 +9,29 @@
 
 
 ### Team Members
-- Team Lead: [KRISHNA R S] - [CEAL]
-- Member 2: [REVATHY KRISHNA] - [CEAL]
-- Member 3:
+- Team Lead: [REVATHY KRISHNA] - [CEAL]
+- Member 2: [KRISHNA RS] - [CEAL]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[ KNOWING ABOUT YOU BY JUST GIVING YOUR NAME ]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[
+
+**"Most personality tests take a lot of time and ask too many questions. I wanted to create a fun and fast way for people to learn about their personality, fun facts, and hobbies just by using their name. My website gives quick and entertaining results without any long forms or quizzes."**
+
+
+]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[I built a website where people just enter their name, and it instantly shows their personality, fun facts, and hobbies. This makes it quick, easy, and fun to get personalized information without answering any questions.!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [html,css,js]
+
 
 For Hardware:
 - [List main components]
@@ -36,28 +39,32 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+For Software:VS code,gitHUB
 # Installation
 [commands]
 
 # Run
-[commands]
+[vs code,git hub]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1024" height="512" alt="Home Page" src="images\Screenshot 2025-08-02 163136.png" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+## Home page ##
+
+<img width="1024" height="512" alt="Home Page" src="images\Screenshot 2025-08-02 163217.png" />
+
+## result 1 ##
+
+<img width="1024" height="512" alt="Home Page" src="images\Screenshot 2025-08-02 163243.png" />
+
+## result 2 ##
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+![Workflow](Add your workflow/architecture diagram here)    
 *Add caption explaining your workflow*
 
 For Hardware:
@@ -81,16 +88,18 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[<video controls>
+  <source src="c:\Users\HP\OneDrive\Screen Recording 2025-08-02 164344.mp4" type="video/mp4">
+</video>]
+*When a user types their name into the website, it instantly displays personalized results using simple logic or algorithms. It doesn’t ask long questions or require sign-ups — it’s quick, easy, and entertaining for anyone to try.*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Revathy Krishna]: [front end]
+- [Krishna R S]: [front end]
+- 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
